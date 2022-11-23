@@ -6,3 +6,4 @@ https://math.stackexchange.com/questions/905287/10-little-dwarves
 
 If the dwarves use this strategy, all but the tallest will definitely live. The tallest dwarf's chance is %50.
 Check out the code
+https://dotnetfiddle.net/k5df3S
